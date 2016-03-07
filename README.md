@@ -1,4 +1,4 @@
-# battleships impementation in python
+# battleships implementation in python
 python/qt4 framework required
 
 3/7/2016<br>
